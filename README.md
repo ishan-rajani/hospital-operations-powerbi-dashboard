@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard analyzing hospital opera
 
 ## Dashboard Preview
 
-![Dashboard Preview](Hospital%20Operations%20Dashboard%20Power%20BI.JPG)
+![Dashboard Preview](powerbi-dashboard-preview.jpg)
 
 ## Key Features
 
