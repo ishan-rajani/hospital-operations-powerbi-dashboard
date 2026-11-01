@@ -32,3 +32,13 @@ The dashboard enables exploration of hospital performance by identifying:
 * Areas with elevated readmission rates
 * Differences in length of stay across departments
 * Cost distribution across hospital services
+
+## Key Findings
+
+Based on 47 simulated hospital encounters across 5 departments in 2025.
+
+- **Delayed discharges drive length of stay.** 45% of encounters had a delayed discharge. Those stays averaged 5.7 days, compared with 2.7 days for on-time discharges.
+- **The ER is the biggest throughput problem.** ER stays averaged 3.8 days against a 2-day target, and 80% of ER encounters had a delayed discharge.
+- **Oncology concentrates cost.** Oncology accounted for 32% of encounters but 49% of total cost ($234K of $474K), averaging $15.6K per encounter.
+- **Readmissions cluster in Orthopedics and the ER.** The overall readmission rate was 21%, with Orthopedics at 40% and the ER at 30%. Neurology had no readmissions.
+- **Chronic conditions raise readmission risk.** Patients with a chronic condition were readmitted 26% of the time, compared with 8% for patients without one. Medicare patients (29%) were readmitted more often than Commercial patients (19%).
