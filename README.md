@@ -4,7 +4,7 @@
 
 This project presents an interactive Power BI dashboard analyzing hospital operational performance across departments. The dashboard highlights key healthcare metrics including patient volume, readmission rates, length of stay, and departmental cost distribution.
 
-The Power BI file isn’t included in this repo. The screenshot below shows the final dashboard, and the source data is in careflow_insights_data.xlsx
+The screenshot below shows the final dashboard, and the source data is in careflow_insights_data.xlsx
 
 ## Dashboard Preview
 
@@ -23,15 +23,6 @@ The Power BI file isn’t included in this repo. The screenshot below shows the 
 * DAX
 * Data Modeling
 * Data Visualization
-
-## Insights
-
-The dashboard enables exploration of hospital performance by identifying:
-
-* Departments with the highest patient volume
-* Areas with elevated readmission rates
-* Differences in length of stay across departments
-* Cost distribution across hospital services
 
 ## Key Findings
 
